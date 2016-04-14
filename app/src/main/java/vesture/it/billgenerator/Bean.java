@@ -8,6 +8,7 @@ public class Bean {
     private float qty;
     private float rate;
     private float discount;
+
     private float vat;
     private float amt;
     public String getProductname() {
